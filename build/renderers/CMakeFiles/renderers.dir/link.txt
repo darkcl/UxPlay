@@ -1,0 +1,2 @@
+/usr/bin/ar qc librenderers.a CMakeFiles/renderers.dir/audio_renderer_gstreamer.c.o CMakeFiles/renderers.dir/video_renderer_gstreamer.c.o
+/usr/bin/ranlib librenderers.a
